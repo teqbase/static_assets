@@ -1,1 +1,2 @@
-# static_assets
+# static_assets for clients
+DO NOT DELETE
